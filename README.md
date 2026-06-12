@@ -1,7 +1,7 @@
 # 🎮 RayMC Manager
 **The Ultimate Local Minecraft Server Manager**
 
-![Banner Placeholder](https://via.placeholder.com/800x200/121212/00ffcc?text=RayMC+Manager+Banner)
+![RayMC Manager Banner](./banner.png)
 
 Welcome to the official public tracker for **RayMC Manager**, proudly created by **Ray**. This tool allows you to effortlessly run, manage, and configure local Minecraft servers straight from your PC using your system's resources.
 
