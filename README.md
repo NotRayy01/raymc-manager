@@ -15,6 +15,19 @@ Welcome to **RayMC Manager**, an all-in-one local server tool conceptualized and
 
 ---
 
+<div align="center">
+  <h3>🌟 Powered & Sponsored By RayNode Hosting</h3>
+  <p>
+    Want to run your Minecraft server <b>24/7</b> without keeping your own PC turned on?<br>
+    Get high-performance, lag-free, and highly affordable Minecraft server hosting at <b><a href="https://www.raynode.in" target="_blank">RayNode Hosting</a></b>!
+  </p>
+  <a href="https://www.raynode.in">
+    <img src="https://img.shields.io/badge/Visit_RayNode_Hosting-00ffcc?style=for-the-badge&logo=minecraft&logoColor=black" alt="RayNode Hosting">
+  </a>
+</div>
+
+---
+
 ## ✨ Why Choose RayMC Manager?
 
 * 🚀 **1-Click Server Wizard:** Instantly download and setup Vanilla, Paper, Forge, or Fabric.
